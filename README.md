@@ -8,5 +8,5 @@ The program will ask for an input and will do the following -
 
 e.g.
 Enter a word --------->>>>>>
-the marina promenade
-The output is: thE marinA pRomenADe
+marina
+The output is: anIrAm
